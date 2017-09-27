@@ -1,0 +1,9 @@
+/SmartDB-ejb/build/
+/SmartDB-ejb/dist/
+/SmartDB-war/build/
+/SmartDB-war/dist/
+/build/
+/nbproject/private/
+/SmartDB-ejb/nbproject/private/
+/dist/
+/SmartDB-war/nbproject/private/
